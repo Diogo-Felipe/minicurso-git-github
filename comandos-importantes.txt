@@ -1,0 +1,7 @@
+git clone < url do seu repositório >
+
+git add < docmentos por comitar >
+
+git commit -m "< mensagem de commit >"
+
+git push origin < branch >
